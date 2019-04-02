@@ -29,8 +29,6 @@ public class StringTest_1 {
 		
 		
 		
-		
-		
 	}
 
 }

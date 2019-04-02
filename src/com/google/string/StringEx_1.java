@@ -10,7 +10,6 @@ public class StringEx_1 {
 		//업로드할 파일명 입력
 		//이 파일이 이미지인지 아닌지 구별
 		//이미지 아니라면 이미지만 업로드 가능
-		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("파일명 입력하세요");
 		String name = sc.next();
